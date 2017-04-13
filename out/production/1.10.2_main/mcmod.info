@@ -1,0 +1,15 @@
+[
+{
+  "modid": "stm",
+  "name": "Shashakar's Tutorial Mod",
+  "description": "Shashakar's Tutorial Mod.",
+  "version": "1.1",
+  "mcversion": "[1.9.4, 1.10.2]",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Shashakar"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

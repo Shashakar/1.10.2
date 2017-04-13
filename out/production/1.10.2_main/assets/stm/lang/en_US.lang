@@ -1,0 +1,43 @@
+itemGroup.tabShashakar'sMod=Shashakar's Mod
+
+<!-- COMPONENTS -->
+<!-- FOOD COMPONENTS -->
+item.dough.name=Dough
+item.flour.name=Flour
+item.uncookedcorndog.name=Un-cooked Corn-dog
+
+<!-- ITEMS WITH VARIANTS -->
+<!-- FILLINGS -->
+item.fillingapple.name=Apple Filling
+
+<!-- UNCOOKED PIES -->
+item.uncookedapplepie.name= Un-cooked Apple Pie
+
+<!-- TOOL COMPONENTS -->
+item.chain.name=Chain
+item.blade.name=Blade
+
+<!-- TOOLS -->
+item.chainsaw.name=Chain-saw
+item.lawnmower.name=Lawn Mower
+item.grindstone.name=Grindstone
+
+<!-- BUCKETS -->
+item.woodbucketempty.name=Wood Bucket
+item.woodbucketmilk.name=Milk Wood Bucket
+item.woodbucketwater.name=Water Wood Bucket
+
+<!-- FOOD -->
+item.doughnut.name=Doughnut
+item.corndog.name=Corn-dog
+
+<!-- ITEMS WITH VARIANTS -->
+<!-- PIES -->
+item.pieapple.name=Apple Pie
+
+<!--BLOCKS-->
+tile.fryer.name=Fryer
+tile.fryeractivated.name=Activated Fryer
+
+<!--CONTAINERS-->
+container.fryer=Fryer
